@@ -21,3 +21,6 @@ By Kelompok 5 :
 
 ------------------------------------------------------------------------------
   
+Preview dapat dilihat sebagai berikut :
+
+https://user-images.githubusercontent.com/83199747/117534509-ece57b80-b01b-11eb-840e-8a038eb24944.mp4
